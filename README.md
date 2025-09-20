@@ -1,10 +1,10 @@
-# Proyecto Microservicios
+# 🚀 Microservices Project
 
-Este repositorio contiene una arquitectura basada en microservicios que incluye:
+This repository contains a **microservices-based architecture** that includes:
 
-- **Authentication**: servicio de autenticación y gestión de usuarios.
-- **Application**: servicio principal de la aplicación.
-- **SQL**: scripts y configuración para la base de datos.
-- **Docker Compose**: orquestación de contenedores para levantar todos los servicios.
+- 🔐 **Authentication**: Service for user authentication and management.  
+- 📱 **Application**: Main application service.  
+- 🗄️ **SQL**: Database scripts and configuration.  
+- 🐳 **Docker Compose**: Container orchestration to run all services together.  
 
-El proyecto utiliza **Git submodules** para mantener desacoplados los microservicios y facilitar su despliegue independiente.
+The project uses **Git submodules** to keep microservices decoupled and enable independent development and deployment.  
