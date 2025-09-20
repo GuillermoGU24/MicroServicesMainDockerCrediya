@@ -1,0 +1,7 @@
+[submodule "Application"]
+    path = Application
+    url = https://github.com/GuillermoGU24/Application.git
+
+[submodule "Authentication"]
+    path = Authentication
+    url = https://github.com/GuillermoGU24/Authentication.git
